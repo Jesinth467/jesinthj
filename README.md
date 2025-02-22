@@ -1,3 +1,3 @@
 # jesinthj
 
-preview:(/home/ebi/jesinthj/index.html)
+preview:[portfolio](/home/ebi/jesinthj/index.html)
