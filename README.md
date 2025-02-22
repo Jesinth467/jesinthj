@@ -1,3 +1,3 @@
 # jesinthj
 
-# preview:/home/ebi/jesinthj/index.html
+preview:(/home/ebi/jesinthj/index.html)
